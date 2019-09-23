@@ -1,0 +1,34 @@
+.header-nav li{
+    display: inline;
+    padding: 0px 20px;
+}
+.custom-border{
+    border-top: 1px solid black;
+    border-bottom: 2px solid rgb(138, 134, 134);
+}
+.custom-shadow{
+    border: 1px solid #d3cdcd;
+    text-align: center;
+}
+.custom-background{
+ background: #e2dfdf;
+ color: black;
+}
+.ul.a {
+    list-style-type: square;
+  }
+.card{
+    border: none;
+}
+#search{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid;
+}
+.button{
+    background: transparent;
+    color: black;
+}
+.image-resize{
+    height: 200px;
+}

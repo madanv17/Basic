@@ -1,0 +1,37 @@
+
+
+.custompadding{
+    height: 100%;
+}
+
+.inside1{
+    padding: 5px;
+    border: 1px solid black;
+    height: 100%; 
+    background-color: antiquewhite
+}
+
+.customrow1{
+    padding: 5px;
+    border: 1px solid black;
+    height: 100px;
+    background-color: antiquewhite
+}
+.left-0{
+    padding: 10px;
+    height: 300px;
+}
+
+
+.customrow3{
+    padding: 5px;
+    border: 1px solid black;
+    height: 100px;
+    background-color: antiquewhite
+}
+
+.rb1{
+    border: 1px solid black;
+    height: 100%;
+    background-color: aliceblue
+}

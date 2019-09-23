@@ -1,0 +1,48 @@
+.container{
+    padding: 10px;
+}
+
+.site-footer{
+    background-color: white;
+    color: #ffff;
+}
+.custom-row{
+    border: 1px solid black;
+    background: royalblue;
+    color: white;
+}
+.bottom-footer{
+   border-top: 1px solid black;
+    color:black;
+    padding: 16px 0px;
+}
+.footer-color{
+    color: blue;
+}
+.footer-nav{
+text-align: right;
+    list-style: none;
+}
+.footer-nav li{
+    display: inline;
+    padding: 0px 10px;
+}
+.header-nav li{
+    display: inline;
+    padding: 0px 10px;
+}
+.contact-button{
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+}
+.next-button{
+    position: absolute;
+    top: 6px;
+    left: 4px;
+}
+.custom-bg{
+    border: 1px solid;
+    background: rgb(245, 243, 243);
+    color: black;
+}

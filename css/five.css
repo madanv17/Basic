@@ -1,0 +1,49 @@
+.custom-img{
+background-image: url(../images/rect6116.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.header-nav li{
+    display: inline;
+    padding: 0px 20px;
+}
+.custom-bg{
+    background: coral;
+    color: white;
+    padding: 0px 16px;
+}
+.custom-text{
+    text-align: center;
+    
+}
+.custom-footer{
+    background: gainsboro;
+    text-align: center;
+}
+.custom-color{
+    background: white;
+    color: black;
+}
+.border-color{
+    border-bottom: 2px solid white;
+}
+.font-size{
+    font-size: 5.5rem;
+}
+@media only screen and (max-width: 900px){
+    .font-size{
+        font-size: 3.5rem;
+    }
+}
+@media only screen and (max-width: 600px){
+    .font-size{
+        font-size: 2.5rem;
+    }
+}
+@font-face{
+    font-family: Charm-Bold;
+    src: url(../font/Charm/Charm-Bold.ttf) format("truetype");
+}
+.custom-font{
+    font-family: Charm-Bold;
+}

@@ -1,0 +1,37 @@
+.header-nav li{
+
+    padding: 0px 10px;
+}
+.custom-bg{
+    background: rgba(119, 26, 57, 0.904);
+    color: white;
+}
+.custom-color{
+    background: gainsboro;
+    color: black;
+}
+.custom-footer{
+    background: gainsboro;
+    color: black;
+}
+.strech{
+    height: 100%;
+    width: 100%;
+}
+@font-face{
+    font-family: Archivo;
+    src: url(../font/Archivo_Black/ArchivoBlack-Regular.ttf) format("truetype");
+
+}
+.custom-font1{
+    font-family: Archivo;
+    
+}
+@font-face{
+    font-family: Imprima;
+    src: url(../font/Imprima/Imprima-Regular.ttf) format("truetype");
+
+}
+.custom-font2{
+    font-family: Imprima;
+}

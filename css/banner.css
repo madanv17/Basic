@@ -1,0 +1,46 @@
+
+
+.custom1{
+    border:1px solid black;
+    height: 100px;
+    padding: 20px;
+    background: aliceblue;
+  }
+  
+  .custom2{
+    height: 300px;
+  }
+  
+  .custom3{
+    border:1px solid black;
+    height: 100px;
+    padding: 20px;
+    background: aliceblue;
+  }
+  .custom4{
+    border:1px solid black;
+    height: 200px;
+    padding: 20px;
+    background: aliceblue;
+  }
+  
+
+ .grid1{
+     border: 1px solid black;
+     background-color: bisque;
+ }
+ .grid2{
+    border: 1px solid black;
+    background-color: bisque;
+}
+.grid3{
+    border: 1px solid black;
+    background-color: bisque;
+}
+ 
+.customborder{
+     border:1px solid black;
+       height: 100%;
+   background-color: antiquewhite;
+               }
+              
