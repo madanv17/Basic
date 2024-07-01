@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="test">Click</button>
+</body>
+<script>
+    var mydata = new XMLHttpRequest();
+    mydata.open('URL','https://learnwebcode.github.io/json-example/animals-1.json');
+    mydata.onload = function() {
+        var ourdata = mydata.responseText;
+    };
+    mydata.send();
+</script>
+</html>
